@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "love-food-383613",
-  "private_key_id": "a24521f2a67079b379a9f37af5cb8fdc0f131808",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQ83fV5MfJSA/G\nralb+2VyZSn8HRsya/TGUgWOxTRf+FdxW3G0QlIgY8adG9/DaWVr6kixkE6cQQII\n3+Za59eRbddBCVA4hfWo3VmOzKkylJmuUE4FGMbTNfvcrlDbDFRGWvQkU8zT6Ky7\nwdInBSwbdqX92v0rtEvxFcqO1LRj0+cW66Mo1Wh1pj+ROaul0pHWjJ5ftR3Hb/Rr\n/eEJ0DRWwQA4CxCSdCvG1D7UbK032QCh5mzogGiwVyx38KgL/RGEdQLtGKkqK/cx\nLyufBffOI7L8WyCUCyiXNmUuGgwp245triOx9z/6cV/y96M0LthMphVIp3RJWa4w\nLpXYwXYVAgMBAAECggEAHLU3pfN4dR8yTq9c1ESbUDeEg/Pwy8DxWujqRF8+0wYQ\nrXkGsUSUVulj8ABSBjYE2gVt7cruoshGQqMzkIwL1/f48p7JVlSDtbTXNK7IkOW4\n9Tre5OgGEtVFg2y7w1JzC3celOZK8ipKMap+uG8wD+VlFTyuuR3tj3s5IaYzbvS/\n6KMpqDRzKzH9NFcYB58Yz/TZBqJ2ha7HeiQyhrlTcIQ40JPy9nAoNgqLniVIHyo8\nhMG34HkwIJW6viu99wVGQT8I/cixekFMboZ0ZhrZT3CMdcchuPfaY2VeGzACkfRa\ngk41APqnkqKr1UkhlCVaClVcSzOzLPG23JHnbJvrgQKBgQDCXnLYt0+tHzpnXaP+\nFBAmZYOwAYu9whzjcbjeNlgQn2RLZ9uRvBfK2mTwTcyBm9FSsoVwS2Mqvqm1xeAV\nWXDiVhJx4ixWD2X5fRT/1W4AQb1ufoOM0uOhgpXz3PP12BUU/nnz1mBYrA5yzV5w\nMmTzFAGQSdk5AUN5jilg9lNCgQKBgQC+6ZxAfkp7Ot12BgxVlesjokUwtOJOEyyI\nwxdI6dQJJwab1oQvcw7W6aYW2VOJQqrxbCgoO3vkC8iqRLDjlhZklztbgM3WaCBp\nmhHwLGavjHstChS1bLf3mHXUvBl76JWB+evpJaQyInQYixbDf1O9rEVX8RfhOTAr\nfFROT+lBlQKBgG/d2i2eu23BVmTdgSAfvffLX1JyYVISoXvKHQNPtbnDcv7vRHEJ\nF4x5y7R+omBKJNx6wNATo3ybhaOHwmOnOZAax7zh1nClpiREeEySMyBUtckdaWso\niTiQputW1NY+yktt9xR+4q7GP/6U8nCSoIVCk2/PAQWNE5+nUWtr+hmBAoGBAJmG\nxhf7N6xXz0adYIfnEvxJ/3hGzoLY2oR01yHUoKZnkuH5pb1+up1LsjxHsuz8Bvo0\n7ypDg8MFUu7SZKnwxbtI/vv73gwhGoex1eEd48oin9+9bp/jeSIMoh1c0uWZSboH\noJaSpbOHj3M5TyoSF+a9RdqN0JVXZwxhZG7BxqPtAoGAccIJ7XW+KZKYDC4ZRUNs\naFN8moiPhEhoiF44SC7sl154Uxh7D2j61JeiGRtyZNdJM0yQaRfhLHDq9n0Bn1kt\nWBBuRFP7pDDYwHu04/K1uDBKR4A2J8sAaVPeauKWkyiGJ7GX8sNK+HHMB9umITYO\nGuG2Fq2uzJjSonUsbu6Knb4=\n-----END PRIVATE KEY-----\n",
-  "client_email": "killol@love-food-383613.iam.gserviceaccount.com",
-  "client_id": "103008103367881591509",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/killol%40love-food-383613.iam.gserviceaccount.com"
-}
+
